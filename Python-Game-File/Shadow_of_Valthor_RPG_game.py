@@ -1,6 +1,9 @@
 import random as r
 
+print("🌟 Welcome to The Shadow of Valthor! 🌌 Let your adventure begin! 🎮✨\n")
+
 #Chosing the class
+
 while True:
     try:
         class_ = int(input('''Please select your class: 
@@ -222,6 +225,7 @@ morrak_hp = 2
 print("Morrak is a", morrak_he, "hit point")
 print('\n')
 
+#The First Encounter with an enemy
 
 while morrak_he > 0 and he > 0:
     try:
@@ -317,11 +321,15 @@ Thy body collapseth, and the tale of thy journey endeth here.\n
 #############################################################\n""")
     exit()
 
+#reseting the character stats
+
 he = initial_he
 fp = initial_fp
 ad = initial_ad
 ap = initial_ap
 hp = initial_hp
+
+#the progression system
 
 print("""
 Through the mist-laden woods, thou dost tread, the echoes of battle still whispering in the wind. The scent of damp earth and the hush of ancient trees bear witness to thy passage.
@@ -359,6 +367,8 @@ while True:
 
 print("""A choice is made, and the heavens break asunder! A blinding light doth surge forth, wrapping thee in its embrace. The world doth fade, and for but a breath, thou art lost within the abyss of radiance.
 Then, as shadows yield, thou dost stand anew. Strength unfelt courses through thy veins, the weight of newfound power settling upon thy soul.\n""")
+
+#The choice affecting the ending of the game
 
 print("""Yet ere the moment stills, a cry doth pierce the air—a woman’s voice, wrenched from the depths of peril.
 Before thee, the path doth split, and choice be thine to make:\n""")
@@ -495,6 +505,8 @@ The warrior raises his sword. The rogue vanishes into the mist. The mage calls u
 
 Valthor’s blade descends.\n''')
 
+#The Valthor Encounter
+
 valthor_he = 100
 valthor_fp = 60
 valthor_ad = 6
@@ -623,6 +635,8 @@ Your health =""",he)
                 print(
                     "The void remaineth silent. Valthor’s call goeth unanswered, and the wound upon his flesh remaineth! A flicker of doubt darkeneth his gaze.\n")
             valthor_fp -= 10
+#The game ending 
+
 if he > 0 and rescued == True:
     print("""#############################################################\n
     

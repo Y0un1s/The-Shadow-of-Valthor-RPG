@@ -513,7 +513,7 @@ valthor_ad = 6
 valthor_ap = 6
 valthor_hp = 3
 
-print("Valthork is a", valthor_he, "hit point\n")
+print("Valthor is a", valthor_he, "hit point\n")
 
 while valthor_he > 0 and he > 0:
     try:

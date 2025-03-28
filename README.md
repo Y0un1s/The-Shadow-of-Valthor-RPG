@@ -16,6 +16,7 @@ Welcome to **Shadow of Valthor**, an immersive simple text-based RPG where you e
 1. Clone this repository:
    ```sh
    git clone https://github.com/Y0un1s/The-Shadow-of-Valthor-RPG-Game.git
+   cd The-Shadow-of-Valthor-RPG-Game
    cd Python-Game-File
    ```
 2. Run the game with Python:

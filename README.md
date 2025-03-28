@@ -21,7 +21,7 @@ Welcome to **Shadow of Valthor**, an immersive simple text-based RPG where you e
    ```
 2. Run the game with Python:
    ```sh
-   python Shadow_of_Valthor_RPG_game.py
+   python Shadow_of_Valthor_RPG.py
    ```
 3. Follow the on-screen prompts and immerse yourself in the adventure!
 

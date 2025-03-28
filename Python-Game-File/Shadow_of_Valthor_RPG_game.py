@@ -62,7 +62,7 @@ Choose: '''))
 3)🗡️ Examine it carefully, searching for hidden mechanisms or traps.
             
 4)💫 Take it with you, believing it will reveal its purpose when the time is right.
-                    '''))
+'''))
                     if q1 not in (1,2,3,4):
                         raise ValueError
                 except ValueError:

@@ -43,3 +43,6 @@ A heartfelt thanks to Codédex for inspiring and motivating me to create this en
 ---
 
 Happy adventuring! 🏹🔥
+
+## ⚠️ NOTE
+- This project has been intentionally designed to be simple, avoiding the use of functions or object-oriented programming (OOP).

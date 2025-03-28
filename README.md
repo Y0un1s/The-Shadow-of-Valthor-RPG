@@ -46,3 +46,5 @@ Happy adventuring! 🏹🔥
 
 ## ⚠️ NOTE
 - This project has been intentionally designed to be simple, avoiding the use of functions or object-oriented programming (OOP).
+
+- The story within this project is a blend of my own ideas and creative input generated with the assistance of AI, The code itself was written entirely by me.

@@ -1,6 +1,6 @@
 import random as r
 
-print("🌟 Welcome to The Shadow of Valthor! 🌌 Let your adventure begin! 🎮✨\n")
+print("🌟 Welcome to The Shadow of Valthor! Let your adventure begin! 🎮\n")
 
 #Choosing the class
 

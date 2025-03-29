@@ -5,7 +5,7 @@ Welcome to **Shadow of Valthor**, an immersive simple text-based RPG where you e
 ---
 
 ## 🎮 Features
-- 🏹 **Character Progression**: Level up, enhance abilities, and equip powerful gear.
+- 🏹 **Character Progression**: Level up, enhance abilities.
 - ⚔️ **Combat System**: Engage in turn-based battles with strategic depth.
 - 🎭 **Choices Matter**: Your decisions impact the storyline and your fate.
 - 📜 **Engaging Narrative**: Unravel the mystery of Valthor through captivating lore.

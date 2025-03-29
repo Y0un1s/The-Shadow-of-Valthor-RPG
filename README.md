@@ -35,7 +35,6 @@ Welcome to **Shadow of Valthor**, an immersive simple text-based RPG where you e
 
 ## 🚀 Future Enhancements
 - 🎮 **GUI Version**: A graphical interface for a richer experience.
-- 🤖 **AI-powered NPCs**: Smarter enemies and allies.
 ---
 
 ## 🌟 Acknowledgments
